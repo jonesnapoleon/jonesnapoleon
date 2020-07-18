@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-<img src="profile.png" alt="Jones Napoleon" style="border-radius: 10px"/>
+<img src="https://github.com/jonesnapoleon/jonesnapoleon/raw/master/profile.png" alt="Jones Napoleon" style="border-radius: 10px"/>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jonesnapoleon&show_icons=true)
 
