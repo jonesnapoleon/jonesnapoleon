@@ -50,6 +50,10 @@
 - Try using it [here](https://jonesnapoleon.com/nimfinder)
 - Read more on [here](https://jonesnapoleon.com/posts/nim-finder)
 
+2 **Halma AI Bot**
+
+- Try using it [here](https://halma.jonesnapoleon.com)
+
 ## Get in touch
 
 - Personal page: https://jonesnapoleon.com
