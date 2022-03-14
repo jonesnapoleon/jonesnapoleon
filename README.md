@@ -1,6 +1,6 @@
 ## 🐬 Introduction
 
-I'm [**Jones Napoleon Autumn**](https://jonesnapoleon.com/), an Informatics graduate from Bandung Institute of Technology 🇮🇩 and incoming Software Engineer at Shopee HQ 🇸🇬.
+I'm [**Jones Napoleon Autumn**](https://jonesnapoleon.com/), an Informatics graduate from Bandung Institute of Technology 🇮🇩 and incoming Software Engineer at Shopee 🇸🇬.
 
 My current focus is on Web Development 🌐. Let's [connect](https://www.linkedin.com/in/jonesnapoleon/)!
 
@@ -25,7 +25,7 @@ My current focus is on Web Development 🌐. Let's [connect](https://www.linkedi
 |            [ITB Academic Digital Services](https://layanan.jonesnapoleon.com)            | ReactJS, Django, PostgreSQL, GCP |                    ITB service that allows students to request academic tickets and allows admins to easily admit and act on the requests.                    |
 |            [Health Wealth Limited](https://healthwealthlimited.netlify.app/)             |     ReactJS, Django, Heroku      |                                                           Secured personal health data repository.                                                            |
 
-## 🥇 Awards
+## 🥇 Honors and Awards
 
 |                      Achievement                      |      Scope      |                                                              Issuer                                                              | Year |                                             Keywords                                              |
 | :---------------------------------------------------: | :-------------: | :------------------------------------------------------------------------------------------------------------------------------: | :--: | :-----------------------------------------------------------------------------------------------: |
