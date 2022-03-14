@@ -51,6 +51,4 @@ My current focus is on Web Development 🌐. Let's [connect](https://www.linkedi
 
 ## ⭐ Github Stats
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=jonesnapoleon&count_private=true&show_icons=true)
-
 ![Metrics](/github-metrics.svg)

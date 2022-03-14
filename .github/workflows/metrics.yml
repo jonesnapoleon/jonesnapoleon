@@ -25,9 +25,6 @@ jobs:
 
           plugin_isocalendar: yes
 
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: chartist
-
           plugin_habits: yes
           plugin_stars: yes
           plugin_stars_limit: 4
