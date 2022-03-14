@@ -2,7 +2,7 @@
 
 I'm [**Jones Napoleon Autumn**](https://jonesnapoleon.com/), an Informatics graduate from Bandung Institute of Technology 🇮🇩 and incoming Software Engineer at Shopee HQ 🇸🇬.
 
-You can reach me through [Linkedin](https://www.linkedin.com/in/jonesnapoleon/)
+My current focus is on Web Development 🌐. Let's [connect](https://www.linkedin.com/in/jonesnapoleon/)!
 
 ## 💼 Professional Experience
 

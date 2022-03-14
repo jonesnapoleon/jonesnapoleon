@@ -13,8 +13,6 @@ jobs:
 
           template: repository
           config_padding: 10
-          config_display: large
-          config_output: png
 
           plugin_achievements: yes
           plugin_achievements_display: detailed
