@@ -8,6 +8,7 @@ My current focus is on Web Development 🌐. Let's [connect](https://www.linkedi
 
 |                             Company                              |           Role           |    Type    |       Duration       |
 | :--------------------------------------------------------------: | :----------------------: | :--------: | :------------------: |
+|          [Mekari](https://mekari.com/)                           |      Backend Engineer    | Internship | May 2021 - Aug 2022  |
 |          [Tokopedia](https://www.tokopedia.com/about/)           | Engineering Productivity | Internship | Nov 2021 - May 2022  |
 |           [Gojek](https://www.gojek.com/en-id/about/)            | Data Warehouse Engineer  | Internship | June 2021 - Oct 2021 |
 |               [Garena](https://www.garena.co.id/)                |    Software Engineer     | Internship | May 2020 - Aug 2021  |
